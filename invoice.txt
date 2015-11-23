@@ -1,0 +1,4 @@
+214567 Hamburger    2.99 3
+738392 Hotdog       1.99 7
+758493 French_fries 1.50 4
+859300 Soda         1.25 8
